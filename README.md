@@ -20,7 +20,7 @@
 - 🧰 Frameworks and libraries:
   
     ![Laravel](https://img.shields.io/badge/laravel-%23000000.svg?style=for-the-badge&logo=laravel&logoColor=red&color=white)
-    ![Vue3](https://img.shields.io/badge/vue-%23000000.svg?style=for-the-badge&logo=vue&logoColor=blue&color=gray)
+    ![Vue3](https://img.shields.io/badge/vue-%23000000.svg?style=for-the-badge&logo=Vue.js&logoColor=green&color=gray)
     ![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=blue&color=gray)
     ![React Native](https://img.shields.io/badge/react%20native-%23000000.svg?style=for-the-badge&logo=react&logoColor=blue&color=gray)
     
