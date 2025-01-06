@@ -13,6 +13,7 @@
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/javascript-2200.svg?style=for-the-badge&logo=javascript&logoColor=yellow&color=black)
+    ![Java](https://img.shields.io/badge/java-2200.svg?style=for-the-badge&logo=javascript&logoColor=yellow&color=black)
     ![TypeScript](https://img.shields.io/badge/typescript-2200.svg?style=for-the-badge&logo=typescript&logoColor=blue&color=white)  
     ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -23,6 +24,7 @@
     ![Vue3](https://img.shields.io/badge/vue-%23000000.svg?style=for-the-badge&logo=Vue.js&logoColor=green&color=gray)
     ![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=blue&color=gray)
     ![React Native](https://img.shields.io/badge/react%20native-%23000000.svg?style=for-the-badge&logo=react&logoColor=blue&color=gray)
+    ![SpringBoot](https://img.shields.io/badge/springboot-2200.svg?style=for-the-badge&logo=typescript&logoColor=blue&color=white)  
     
 - 💾 Databases:
   
